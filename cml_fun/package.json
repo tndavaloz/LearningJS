@@ -1,10 +1,10 @@
 {
-  "name": "learningjs",
+  "name": "cml_fun",
   "version": "1.0.0",
-  "description": "Want this to be a collection of things JS",
+  "description": "Just a little example of how to use commander.js",
   "main": "src/index.js",
   "bin": {
-    "learningjs": "src/index.js"
+    "cml_fun": "src/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
