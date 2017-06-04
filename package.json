@@ -1,0 +1,25 @@
+{
+  "name": "learningjs",
+  "version": "1.0.0",
+  "description": "Want this to be a collection of things JS",
+  "main": "src/index.js",
+  "bin": {
+    "learningjs": "src/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tndavaloz/LearningJS.git"
+  },
+  "author": "Nick Davaloz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tndavaloz/LearningJS/issues"
+  },
+  "homepage": "https://github.com/tndavaloz/LearningJS#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
